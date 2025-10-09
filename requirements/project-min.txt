@@ -2,7 +2,7 @@ click==7.0
 Jinja2==2.11.1
 markupsafe==2.0.1
 Markdown==3.3
-PyYAML==5.1
+PyYAML==5.4
 watchdog==2.0.0
 ghp-import==1.0
 pyyaml_env_tag==0.1
