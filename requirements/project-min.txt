@@ -15,5 +15,5 @@ colorama==0.4; platform_system == 'Windows'
 mdx_gh_links==0.2
 markdown-callouts==0.2
 mkdocs-redirects==1.0.1
-pymdown-extensions==8.0.1
+pymdown-extensions==10.16.1
 mkdocstrings-python==0.7.1
